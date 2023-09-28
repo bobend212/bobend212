@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Mateusz 👋
+
+<p>I'm Mateusz, Jr Java Developer from <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="13"/> <b>Wroclaw, Poland</b>. </p>
 
 ◻️  I’m currently learning Kotlin
 
