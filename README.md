@@ -1,24 +1,24 @@
 ### Hi there 👋
 
-- 🔭 My main tech stack:
-  - Java, Spring, Spring Boot, Hibernate, JUnit, Maven
-  - Git
-  - REST
-  - HTML / CSS
-  - My Java projects:
-    - [DataImporter REST API](https://github.com/bobend212/DataImporter)
-    - [online-store REST API](https://github.com/bobend212/online-store)
-    - [java-practice (learning exercises)](https://github.com/bobend212/java-practise-2)
+◻️  I’m currently learning Kotlin
 
+## Main Languages and Tools
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />](https://www.java.com/pl/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />](https://gradle.org/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />](https://maven.apache.org/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />](https://www.jetbrains.com/idea/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />](https://bitbucket.org/product/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />](https://www.atlassian.com/software/jira)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />](https://spring.io/)
 
-- ⚡ I'm also familiar with:
-  - C#, Blazor and .Net
-  - SQL Server, SQLite
-  - My C# Blazor projects:
-    - [Stafferable - Time tracking application with user authorization and authentication created for teams working on projects.](https://github.com/bobend212/Stafferable)
-    - [Checkingx - Project checking app for design offices, collaborating in teams with many projects at the same time.](https://github.com/bobend212/Checkingx)  
-    - [EmpApp - Blazor WebAssembly Employee application to manage projects workflow, employee timesheets, design teams, and much more.](https://github.com/bobend212/EmpAppBlazor)
-  - Angular
-  - My Angular apps:
-    - [WeatherApp](https://github.com/bobend212/WeatherApp) 
-    - [TodoApp](https://github.com/bobend212/TodoApp)
+## Familiar with...
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />](https://angular.io/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />]()
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />]()
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
+
+## Currently learning
+[<img alt="alt_text" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />](https://kotlinlang.org/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://www.android.com/)
