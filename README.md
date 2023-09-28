@@ -1,8 +1,8 @@
 ### Hi there, I'm Mateusz 👋
 
-<p>I'm Mateusz, Jr Java Developer from <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="13"/> <b>Wroclaw, Poland</b>. </p>
+<h4>I'm Mateusz, Jr Java Developer from <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="13"/> <b>Wroclaw, Poland</b>. </h4>
 
-◻️  I’m currently learning Kotlin
+<h5>◻️  I’m currently learning Kotlin </h5>
 
 ## Main Languages and Tools
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />](https://www.java.com/pl/)
